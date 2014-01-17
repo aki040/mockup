@@ -8,3 +8,10 @@ Low-tech Vaccine Inventory Management
 5. As an administrator, I want to run analyses (projected demand, timing of new stock, etc.) on vaccines stocks of any user or aggregation of users.
 6. As an administrator, I want to send notification to users of new vaccine shipments. 
 7. As an administrator, I want to export vaccine stock data easily. 
+
+# Domain Model
+
+## Products 
+
+|ID|Title|SKU|Price|
+|--|-----|---|-----|

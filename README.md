@@ -10,6 +10,8 @@ Low-tech Vaccine Inventory Management
 7. As an administrator, I want to export vaccine stock data easily. 
 
 # Domain Model
+======
+https://docs.google.com/spreadsheet/ccc?key=0AjHstyy0HmLedGVtNVE4YW1COFpRVE1LbHpzN1dtV1E&usp=sharing
 
 ## Products 
 
